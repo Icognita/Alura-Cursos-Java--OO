@@ -6,6 +6,8 @@ public class Main {
 	System.out.println("ssh configurando");
 	System.out.println("teste3");
 
+	System.out.println("teste4");
+
 	}
 
 }
